@@ -1,17 +1,3 @@
----
-title: Vim入门级基础配置-Vim入门教程(1)
-date: 2013-03-23
-categories: Vim入门教程
-tags:
-    - Vim配置
-    - vimrc
-    - Vim教程网
-tag_id: 1
-uniq_id: 1000
-keywords: Vim配置,vimrc,vim显示行号,Vim显示空格,Vim教程网,vim中文教程
-description: Vim配置文件.vimrc位置和作用，配置Vim显示行号、支持utf8中文不乱码、突出显示Vim当前行，设置高亮显示括号匹配和tab缩进，解决Vim粘贴时格式错误问题
-cover_picture: images/vim1.jpg
----
 介绍Vim配置文件.vimrc，配置Vim显示行号、支持utf8中文不乱码、突出显示Vim当前行，设置高亮显示括号匹配和tab缩进，解决Vim粘贴时多出缩进和空格问题。
 
 ### 一、Vim配置文件.vimrc
